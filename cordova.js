@@ -5,7 +5,7 @@
 };
 
 window.appMetrica = {
-	activate: () => {}
+	activate: () => {},
 };
 
 window.onload = () => document.dispatchEvent(new CustomEvent('deviceready')); */
